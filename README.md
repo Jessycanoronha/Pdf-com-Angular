@@ -1,6 +1,6 @@
 # AngularPdf
 
-<img src="1.PNG" alt="">
+<img src="1.png" alt="">
 <img src="2.PNG" alt="">
 <img src="3.PNG" alt="">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
